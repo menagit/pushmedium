@@ -14,4 +14,4 @@ firebase_messaging package.
 
 ### Post Reference
 
-[https://emenaa.medium.com/](https://emenaa.medium.com/f)
+[https://emenaa.medium.com/flutter-push-notifications-with-cloud-messaging-2559fbaf06f6](https://emenaa.medium.com/flutter-push-notifications-with-cloud-messaging-2559fbaf06f6)
